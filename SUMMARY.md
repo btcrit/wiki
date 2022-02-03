@@ -4,7 +4,7 @@
 
 ## 🗓 Meetings and Events <a href="#activity" id="activity"></a>
 
-* [Schedule & Plans](activity/schedule-and-plans/README.md)
+* [Schedule & Plans](activity/schedule-and-plans.md)
   * [Previous Meetings](activity/schedule-and-plans/previous-meetings.md)
 * [Bitcoin Mining Facility Tour](activity/btcmine.md)
 
@@ -14,3 +14,7 @@
 * [Members](resources/members.md)
 * [Task Lists](resources/task-lists.md)
 * [Tasks](resources/tasks.md)
+
+***
+
+* [Blockchain Basics](blockchain-basics.md)
