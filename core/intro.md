@@ -1,3 +1,0 @@
----
-description: 'Intro to Blockchain'
----
